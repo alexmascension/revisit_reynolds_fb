@@ -7,3 +7,4 @@ numpy==1.19.5
 numba==0.52.0
 llvmlite==0.35.0
 scipy==1.6.0
+bbknn==1.4.0
