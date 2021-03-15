@@ -1,7 +1,0 @@
-mkdir reynolds_2020
-wget https://zenodo.org/record/4536165/files/submission_210120.h5ad -o reynolds_2020/reynolds_2020.h5ad
-wget https://zenodo.org/record/4596375/files/reynolds_2020_0_4820STDY7388991_s1_dermis_fibroblasts.loom?download=1 -o reynolds_2020/reynolds_2020_0_4820STDY7388991_s1_dermis_fibroblasts.loom
-wget https://zenodo.org/record/4596375/files/reynolds_2020_8_4820STDY7388999_s2_dermis_fibroblasts.loom?download=1 -o reynolds_2020_8_4820STDY7388999_s2_dermis_fibroblasts.loom
-wget https://zenodo.org/record/4596375/files/reynolds_2020_16_4820STDY7389007_s3_dermis_fibroblasts.loom?download=1 -o reynolds_2020/reynolds_2020_16_4820STDY7389007_s3_dermis_fibroblasts.loom
-wget https://zenodo.org/record/4596375/files/reynolds_2020_84_SKN8104899_S4_dermis_fibroblasts.loom?download=1 -o reynolds_2020/reynolds_2020_84_SKN8104899_S4_dermis_fibroblasts.loom
-wget https://zenodo.org/record/4596375/files/reynolds_2020_92_SKN8105197_S5_dermis_fibroblasts.loom?download=1 -o reynolds_2020/reynolds_2020_92_SKN8105197_S5_dermis_fibroblasts.loom
