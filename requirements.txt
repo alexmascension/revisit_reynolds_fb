@@ -9,3 +9,4 @@ llvmlite==0.35.0
 scipy==1.6.0
 bbknn==1.4.0
 loompy==3.0.6
+harmonypy==0.0.5
