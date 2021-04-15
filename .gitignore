@@ -2,3 +2,6 @@
 *.loom
 .ipynb_checkpoints
 *.h5
+*.pdf
+*.csv
+*.png
