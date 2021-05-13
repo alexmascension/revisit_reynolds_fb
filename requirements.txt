@@ -12,3 +12,4 @@ loompy==3.0.6
 harmonypy==0.0.5
 gseapy==0.10.4
 seaborn==0.11.1
+cell_assign==0.0.1
